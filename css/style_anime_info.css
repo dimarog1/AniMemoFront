@@ -30,12 +30,6 @@ main i {
     color: #ffc000;
 }
 
-main .row a {
-    background-color: #fd5b56;
-    color: white;
-    border-color: #fd5b56;
-}
-
 main .float-start {
     margin-bottom: 15px;
 }
